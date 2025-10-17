@@ -1,0 +1,42 @@
+body{
+          font-family:"Lucida fax"
+          color: #224975;
+          background-image:url(https://cdn.pixabay.com/photo/2024/02/26/09/17/synthetic-8597464_1280.jpg);
+          background-size: cover
+      }
+
+body {
+    color:whitesmoke;
+    align-content: center;
+    
+}
+
+h1{
+    text-align:center;
+}
+
+
+h2{
+    text-align:center;
+}
+
+p{  
+    text-align: center;
+}
+
+h4{
+	text-align: left;
+}
+
+li{
+    text-align: left;
+}
+
+form{
+        background-color: black;
+        width: 50%;
+        padding: 15px;
+        margin: auto;
+        opacity: 80%;
+        border-radius: 15px;
+        border: 15px double; whitesmoke;
